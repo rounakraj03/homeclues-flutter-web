@@ -121,7 +121,7 @@ const RESOURCES = {"assets/AssetManifest.json": "40faa626f5e9f640e9ec0f89fcd1487
 "canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
 "manifest.json": "c93f6a28e6ed19bf221c3f28a3aca307",
-"main.dart.js": "fddacf94d6c22d41b8ef28d60e05a089",
+"main.dart.js": "7fc6137aabebb35dae64d77145f5f2e1",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "icons/Icon-512.png": "981b705ff9c9bc14a3cf6deb48d01485",
 "icons/Icon-192.png": "981b705ff9c9bc14a3cf6deb48d01485",
