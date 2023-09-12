@@ -95,7 +95,7 @@ const RESOURCES = {"assets/AssetManifest.json": "49f324d87366b29494f072f65770de3
 "assets/assets/icons/long_arrow.png": "dbbb7e1787e8b5a2faeb41771c327e43",
 "assets/assets/icons/facebook.png": "f273787c4e507a0f7ba024f1895d5299",
 "assets/assets/six_container_images/office2.jpg": "253ff1c7d4395a437669ca936574a39e",
-"assets/assets/six_container_images/retail.jpg": "d4ff26ee4ce37bd48560cdf8fae85578",
+"assets/assets/six_container_images/retail.jpg": "5ff6b5419e2bcfe8722de1d9b92e7ed2",
 "assets/assets/six_container_images/bathroom.jpg": "e5ad21b3a64f67784d3fb254f668a85b",
 "assets/assets/six_container_images/kitchen.jpg": "ededf171e7d6c89967146d9b689535dd",
 "assets/assets/six_container_images/office.jpg": "6e39c2f04a9431f9b64261db7c1e0bb9",
